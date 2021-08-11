@@ -1,0 +1,14 @@
+shadowsocks= 149.129.113.242:60001, method=none, password=banana007, ssr-protocol=auth_chain_a, obfs=plain, fast-open=false, udp-relay=false, tag=香蕉香港02
+shadowsocks= 149.129.71.253:60000, method=none, password=banana007, ssr-protocol=auth_chain_a, obfs=plain, fast-open=false, udp-relay=false, tag=香蕉香港01
+shadowsocks= 149.129.127.38:60000, method=none, password=banana007, ssr-protocol=auth_chain_a, obfs=plain, fast-open=false, udp-relay=false, tag=香蕉香港03
+shadowsocks= 120.241.72.114:40088, method=none, password=banana007, ssr-protocol=auth_chain_a, obfs=plain, fast-open=false, udp-relay=false, tag=香蕉香港04
+shadowsocks= 149.129.125.251:60086, method=none, password=banana007, ssr-protocol=auth_chain_a, obfs=plain, fast-open=false, udp-relay=false, tag=香蕉香港05
+shadowsocks= 149.129.105.50:60000, method=none, password=banana007, ssr-protocol=auth_chain_a, obfs=plain, fast-open=false, udp-relay=false, tag=香蕉香港06
+shadowsocks= 120.241.72.114:40089, method=none, password=sealnet+305, ssr-protocol=auth_chain_a, obfs=plain, fast-open=false, udp-relay=false, tag=香蕉日本
+shadowsocks= 67.198.228.228:50088, method=none, password=sealnet+305, ssr-protocol=auth_chain_a, obfs=plain, fast-open=false, udp-relay=false, tag=美国-1
+shadowsocks= 98.126.31.16:60068, method=none, password=sealnet+305, ssr-protocol=auth_chain_a, obfs=plain, fast-open=false, udp-relay=false, tag=美国-2
+shadowsocks= 38.143.0.100:60000, method=none, password=sealnet+305, ssr-protocol=auth_chain_a, obfs=plain, fast-open=false, udp-relay=false, tag=美国-3
+shadowsocks= 154.3.6.5:50000, method=none, password=sealnet+305, ssr-protocol=auth_chain_a, obfs=plain, fast-open=false, udp-relay=false, tag=美国-4
+shadowsocks= 154.9.204.54:60000, method=none, password=sealnet+305, ssr-protocol=auth_chain_a, obfs=plain, fast-open=false, udp-relay=false, tag=美国-5
+shadowsocks= 154.9.204.15:60000, method=none, password=sealnet+305, ssr-protocol=auth_chain_a, obfs=plain, fast-open=false, udp-relay=false, tag=美国-6
+shadowsocks= 100.43.163.9:60068, method=none, password=sealnet+305, ssr-protocol=auth_chain_a, obfs=plain, fast-open=false, udp-relay=false, tag=美国-7
